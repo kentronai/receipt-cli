@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 set -eu
 
-RECEIPT_CLI_VERSION="${RECEIPT_CLI_VERSION:-v0.1.0-preview.6}"
+RECEIPT_CLI_VERSION="${RECEIPT_CLI_VERSION:-v0.1.0-preview.7}"
 RECEIPT_CLI_REPO="${RECEIPT_CLI_REPO:-kentronai/receipt-cli}"
 RECEIPT_CLI_BIN_DIR="${RECEIPT_CLI_BIN_DIR:-${HOME}/.local/bin}"
 RECEIPT_CLI_BIN="${RECEIPT_CLI_BIN:-${RECEIPT_CLI_BIN_DIR}/receipt}"
